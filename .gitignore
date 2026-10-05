@@ -1,7 +1,10 @@
+ #linux
+
   target\
   .mvn\
   .idea\
 
-.target/
-.mvn/
-.idea/
+  #windows
+  target/
+  .mvn/
+  .idea/
