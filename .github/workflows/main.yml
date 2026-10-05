@@ -1,4 +1,4 @@
-name: A workflow for SEMcode
+name: A workflow for my Hello World App
 on: push
 
 jobs:
@@ -20,5 +20,3 @@ jobs:
       - name: Run docker compose
         run: docker compose up --abort-on-container-exit
 
-
-        run: docker logs -f devopscontainer
