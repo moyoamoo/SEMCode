@@ -5,15 +5,86 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a52fa12-9579-4e23-8ed7-5d720a3b29a7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="Docker Compose" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test_db" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000003961063" />
+      <entry key="S2" value="1.0122041043609775" />
+      <entry key="S5" value="1.5850476788294885" />
+      <entry key="S10" value="3.304198411531097" />
+      <entry key="S30" value="9.919234325265371" />
+      <entry key="S60" value="19.2832269658804" />
+      <entry key="M2" value="36.38425969139556" />
+      <entry key="M5" value="68.99387153151116" />
+      <entry key="M10" value="90.45034161284458" />
+      <entry key="M15" value="99.63038567128886" />
+      <entry key="M30" value="110.083065829695" />
+      <entry key="H1" value="115.84541906562751" />
+      <entry key="H2" value="118.87194112168416" />
+      <entry key="H4" value="120.42305406029496" />
+      <entry key="D1" value="121.73536234209912" />
+      <entry key="W1" value="121.96214995718798" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.019640833976903565" />
+      <entry key="MS500" value="0.45565064071164996" />
+      <entry key="S2" value="0.8337562160486357" />
+      <entry key="S5" value="1.5083993136225446" />
+      <entry key="S10" value="3.263212490590026" />
+      <entry key="S30" value="9.899256266308301" />
+      <entry key="S60" value="19.26831612506839" />
+      <entry key="M2" value="36.37374577851918" />
+      <entry key="M5" value="68.98806982410474" />
+      <entry key="M10" value="90.44699681490455" />
+      <entry key="M15" value="99.62803542916511" />
+      <entry key="M30" value="110.08182380424235" />
+      <entry key="H1" value="115.84477992201255" />
+      <entry key="H2" value="118.87161682753289" />
+      <entry key="H4" value="120.42289070799463" />
+      <entry key="D1" value="121.73533494718713" />
+      <entry key="W1" value="121.96214603944931" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -28,14 +99,24 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Docker.Dockerfile.executor": "Run",
+    "Docker.docker-compose.yaml: Compose Deployment.executor": "Run",
+    "Docker.test_db/Dockerfile.executor": "Run",
+    "Maven.SEMcode [compile].executor": "Run",
+    "Maven.SEMcode [package].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "feature/view-record",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/moyoamoo/Documents/University/Software Engineering Methods/SEMcode/SEMcode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/home/moyoamoo/Documents/University/Software Engineering Methods/SEMcode/SEMcode/src/main/java/com/napier/sem/Main.java",
@@ -43,9 +124,15 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "Docker",
-    "settings.editor.splitter.proportion": "0.29032257"
+    "settings.editor.splitter.proportion": "0.29032257",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Moyo\Documents\University\SEMCode" />
+    </key>
+  </component>
   <component name="RunManager" selected="Docker.test_db/Dockerfile">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.napier.sem.App" />
@@ -68,9 +155,21 @@
       </deployment>
       <method v="2" />
     </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
       <deployment type="dockerfile">
         <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
       </deployment>
       <method v="2" />
     </configuration>
@@ -86,6 +185,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Docker.test_db/Dockerfile" />
+        <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
         <item itemvalue="Docker.Dockerfile" />
       </list>
     </recent_temporary>
@@ -110,17 +210,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/napier/sem/App.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
