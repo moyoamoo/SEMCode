@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a52fa12-9579-4e23-8ed7-5d720a3b29a7" name="Changes" comment="" />
+    <list default="true" id="1a52fa12-9579-4e23-8ed7-5d720a3b29a7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,9 +33,10 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature/view-record",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/moyoamoo/Documents/University/Software Engineering Methods/SEMcode/SEMcode",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/home/moyoamoo/Documents/University/Software Engineering Methods/SEMcode/SEMcode/src/main/java/com/napier/sem/Main.java",
     "project.structure.last.edited": "Modules",
@@ -43,7 +46,7 @@
     "settings.editor.splitter.proportion": "0.29032257"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Docker.test_db/Dockerfile">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.napier.sem.App" />
       <module name="SEMcode" />
@@ -71,9 +74,18 @@
       </deployment>
       <method v="2" />
     </configuration>
+    <configuration name="test_db/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="contextFolderPath" value="$PROJECT_DIR$" />
+          <option name="sourceFilePath" value="test_db/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Docker.test_db/Dockerfile" />
         <item itemvalue="Docker.Dockerfile" />
       </list>
     </recent_temporary>
