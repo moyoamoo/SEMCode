@@ -4,4 +4,4 @@
 
 .target/
 .mvn/
-/idea/
+.idea/
