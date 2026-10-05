@@ -5,11 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a52fa12-9579-4e23-8ed7-5d720a3b29a7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SEMcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SEMcode-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SEMcode-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/napier/sem/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/napier/sem/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_db" beforeDir="false" afterPath="$PROJECT_DIR$/db/test_db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,71 +28,73 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Dockerfile" />
         <option value="Docker Compose" />
+        <option value="Class" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test_db" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000003961063" />
-      <entry key="S2" value="1.0122041043609775" />
-      <entry key="S5" value="1.5850476788294885" />
-      <entry key="S10" value="3.304198411531097" />
-      <entry key="S30" value="9.919234325265371" />
-      <entry key="S60" value="19.2832269658804" />
-      <entry key="M2" value="36.38425969139556" />
-      <entry key="M5" value="68.99387153151116" />
-      <entry key="M10" value="90.45034161284458" />
-      <entry key="M15" value="99.63038567128886" />
-      <entry key="M30" value="110.083065829695" />
-      <entry key="H1" value="115.84541906562751" />
-      <entry key="H2" value="118.87194112168416" />
-      <entry key="H4" value="120.42305406029496" />
-      <entry key="D1" value="121.73536234209912" />
-      <entry key="W1" value="121.96214995718798" />
+      <entry key="MS100" value="4.793182343419231E-9" />
+      <entry key="MS500" value="0.04860809441439038" />
+      <entry key="S2" value="1.5259866937014508" />
+      <entry key="S5" value="3.104231113950504" />
+      <entry key="S10" value="4.005986354075721" />
+      <entry key="S30" value="8.005414073623488" />
+      <entry key="S60" value="14.22910719001512" />
+      <entry key="M2" value="25.993067144708714" />
+      <entry key="M5" value="71.0814643107092" />
+      <entry key="M10" value="136.01969524517673" />
+      <entry key="M15" value="186.0090348209607" />
+      <entry key="M30" value="280.21168262857" />
+      <entry key="H1" value="361.45252664408576" />
+      <entry key="H2" value="416.54610148544407" />
+      <entry key="H4" value="448.88570933018923" />
+      <entry key="D1" value="478.6978988576715" />
+      <entry key="W1" value="484.0924765540185" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000000000007" />
+      <entry key="S30" value="1.0000088648418575" />
+      <entry key="S60" value="1.003081194064256" />
+      <entry key="M2" value="1.0690290195137049" />
+      <entry key="M5" value="1.5909214344433944" />
+      <entry key="M10" value="2.3052701844437684" />
+      <entry key="M15" value="2.7151874899060404" />
+      <entry key="M30" value="3.2636286233253347" />
+      <entry key="H1" value="3.6045918203478293" />
+      <entry key="H2" value="3.7949571457341613" />
+      <entry key="H4" value="3.895572550288513" />
+      <entry key="D1" value="3.982324413446924" />
+      <entry key="W1" value="3.997468195606224" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.019640833976903565" />
-      <entry key="MS500" value="0.45565064071164996" />
-      <entry key="S2" value="0.8337562160486357" />
-      <entry key="S5" value="1.5083993136225446" />
-      <entry key="S10" value="3.263212490590026" />
-      <entry key="S30" value="9.899256266308301" />
-      <entry key="S60" value="19.26831612506839" />
-      <entry key="M2" value="36.37374577851918" />
-      <entry key="M5" value="68.98806982410474" />
-      <entry key="M10" value="90.44699681490455" />
-      <entry key="M15" value="99.62803542916511" />
-      <entry key="M30" value="110.08182380424235" />
-      <entry key="H1" value="115.84477992201255" />
-      <entry key="H2" value="118.87161682753289" />
-      <entry key="H4" value="120.42289070799463" />
-      <entry key="D1" value="121.73533494718713" />
-      <entry key="W1" value="121.96214603944931" />
+      <entry key="MS100" value="4.0560028665846394E-7" />
+      <entry key="MS500" value="0.10078187480765606" />
+      <entry key="S2" value="2.001578683894452" />
+      <entry key="S5" value="3.846424085560634" />
+      <entry key="S10" value="4.867307343533516" />
+      <entry key="S30" value="8.956259501640654" />
+      <entry key="S60" value="15.206150122136098" />
+      <entry key="M2" value="27.045498635026" />
+      <entry key="M5" value="72.65796477213331" />
+      <entry key="M10" value="138.312142077094" />
+      <entry key="M15" value="188.7131895644384" />
+      <entry key="M30" value="283.46782373168656" />
+      <entry key="H1" value="365.05264136836354" />
+      <entry key="H2" value="420.33859037923355" />
+      <entry key="H4" value="452.77998298666574" />
+      <entry key="D1" value="482.67999707955073" />
+      <entry key="W1" value="488.08991218877117" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -97,6 +108,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.App.executor": "Run",
     "Application.Main.executor": "Run",
     "Docker.Dockerfile.executor": "Run",
     "Docker.docker-compose.yaml: Compose Deployment.executor": "Run",
@@ -109,7 +121,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "feature/view-record",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/moyoamoo/Documents/University/Software Engineering Methods/SEMcode/SEMcode",
@@ -131,9 +143,10 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Moyo\Documents\University\SEMCode" />
+      <recent name="C:\Users\Moyo\Documents\University\SEMCode\db" />
     </key>
   </component>
-  <component name="RunManager" selected="Docker.test_db/Dockerfile">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.napier.sem.App" />
       <module name="SEMcode" />
@@ -184,6 +197,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="Docker.test_db/Dockerfile" />
         <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
         <item itemvalue="Docker.Dockerfile" />
